@@ -20,6 +20,7 @@ This project uses Python and pandas to create a gradebook application for managi
 
 - Python 3.x
 - pandas
+- numpy
 - Jupyter Notebook
 
 ## Project Structure
